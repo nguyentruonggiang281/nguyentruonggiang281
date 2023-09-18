@@ -7,6 +7,11 @@
 <!-- https://simpleicons.org/ -->
 <table>
   <tr>
+      <th>Soft skill</th>
+      <th>Tech skill</th>
+      <th>Structured Query</th>
+  </tr>
+  <tr>
     <td>
       <span><img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=#6DB33F" alt="Spring logo" title="Spring" height="25" /></span>
       &nbsp;
