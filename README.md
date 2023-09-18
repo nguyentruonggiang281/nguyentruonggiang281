@@ -12,6 +12,14 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman" alt="Postman logo" title="Postman" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Mysql-282C34?logo=mysql" alt="Mysql logo" title="Mysql" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Sqlite-282C34?logo=sqlite" alt="Sqlite logo" title="Sqlite" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Postgresql-282C34?logo=postgresql" alt="Postgresql logo" title="Postgresql" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Sql Server-282C34?logo=microsoftsqlserver&logoColor=red" alt="SqlServer logo" title="SqlServer" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker" alt="Docker logo" title="Docker" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Jetbrains-282C34?logo=jetbrains" alt="Jetbrains logo" title="Jetbrains" height="25" /></span>
